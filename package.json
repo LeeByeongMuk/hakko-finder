@@ -33,6 +33,6 @@
 	},
 	"type": "module",
 	"dependencies": {
-		"@vercel/speed-insights": "^1.0.9"
+		"@vercel/speed-insights": "^1.0.11"
 	}
 }
